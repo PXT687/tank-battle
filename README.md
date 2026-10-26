@@ -6,7 +6,7 @@
 
 直接用浏览器打开 `index.html` 即可游玩，也可以部署到任意静态托管服务。
 
-在线试玩（GitHub Pages）：`https://<你的用户名>.github.io/tank-battle/`
+在线试玩（GitHub Pages）：https://pxt687.github.io/tank-battle/
 
 ## 操作方式
 
